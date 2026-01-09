@@ -13,8 +13,8 @@ Bu araç yalnızca **eğitim ve test amaçlıdır**. Kötüye kullanımdan doğa
 
 ```bash
 git clone https://github.com/luaxfy/shinyucaller.git
-pip install -r requirements.txt
 cd shinyucaller
+pip install -r requirements.txt
 ```
 
 ## 💻 Kullanım
