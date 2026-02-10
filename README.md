@@ -32,7 +32,7 @@ python shinxyuuu.py
 📱 Hedef numarayı ülke kodu ile gir (örn: 905xxxxxxxxx):
 ➤ 905555555555
 
-⏳ OTP çağrısı gönderiliyor: +905551234567
+⏳ OTP çağrısı gönderiliyor: +905xxxxxxxxx
 ------------------------------------------------------------
 [1/2] Cihaz kurulumu yapılıyor...
 ✓ Kurulum başarılı
