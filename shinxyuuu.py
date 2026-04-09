@@ -110,8 +110,8 @@ def print_banner():
     banner = pyfiglet.figlet_format("Shinyu CALLER", font="slant")
     print("\033[96m" + banner + "\033[0m")
     print("\033[93m" + "="*60 + "\033[0m")
-    print("\033[92m          Spam Arama Gönderici - luaxfy\033[0m")
-    print("\033[92m          Spam Arama Gönderici - luaxfy\033[0m")
+    print("\033[92m          Spam Arama Gönderici - vulnex.\033[0m")
+    print("\033[92m          Spam Arama Gönderici - vulnex.\033[0m")
     print("\033[93m" + "="*60 + "\033[0m\n")
 
 def main():
@@ -122,12 +122,12 @@ def main():
     
     if not phone.isdigit():
         print("\n\033[91m❌ Geçersiz telefon numarası! Sadece rakam kullan.\033[0m")
-        print("\n\033[93m luaxfy\033[0m\n")
+        print("\n\033[93m vulnex.\033[0m\n")
         return
     
     if len(phone) < 10:
         print("\n\033[91m❌ Telefon numarası çok kısa!\033[0m")
-        print("\n\033[93m luaxfy\033[0m\n")
+        print("\n\033[93m vulnex.\033[0m\n")
         return
     
     ua = {
@@ -154,7 +154,7 @@ def main():
             print(f"\033[90mHTTP Durum Kodu: {kod}\033[0m")
     
     print("\n\033[93m" + "="*60 + "\033[0m")
-    print("\033[93m luaxfy \033[0m")
+    print("\033[93m vulnex. \033[0m")
     print("\033[93m" + "="*60 + "\033[0m\n")
 
 if __name__ == "__main__":
