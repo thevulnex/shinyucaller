@@ -1,4 +1,4 @@
-# 📞 Shinyu CALLER - luaxfy
+# 📞 Shinyu CALLER - vulnex
 
 ![Python Version](https://img.shields.io/badge/python-3.7+-blue.svg)
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
@@ -12,7 +12,7 @@ Bu araç yalnızca **eğitim ve test amaçlıdır**. Kötüye kullanımdan doğa
 ## 🚀 Kurulum
 
 ```bash
-git clone https://github.com/luaxfy/shinyucaller.git
+git clone https://github.com/thevulnex/shinyucaller.git
 cd shinyucaller
 pip install -r requirements.txt
 ```
@@ -56,10 +56,10 @@ Bu proje GNU GPL v3 lisansı altında lisanslanmıştır. Detaylar için `LICENS
 
 ## 👨‍💻 Geliştirici
 
-**luaxfy**
+**vulnex**
 
-- GitHub: [@luaxfy](https://github.com/luaxfy)
-- Repository: [shinyucaller](https://github.com/luaxfy/shinyucaller)
+- GitHub: [@luaxfy](https://github.com/thevulnex)
+- Repository: [shinyucaller](https://github.com/thevulnex/shinyucaller)
 
 ## ⭐ Destek
 
@@ -67,7 +67,7 @@ Eğer bu projeyi beğendiyseniz, lütfen bir yıldız ⭐ verin!
 
 ## 📞 İletişim ve Destek
 
-- Sorularınız için [Issues](https://github.com/luaxfy/shinyucaller/issues) sayfasını kullanın
+- Sorularınız için [Issues](https://github.com/thevulnex/shinyucaller/issues) sayfasını kullanın
 - Bug bildirimleri için issue açabilirsiniz
 - Önerilerinizi paylaşmaktan çekinmeyin
 
@@ -79,9 +79,9 @@ Bu araç yalnızca eğitim amaçlıdır. Birni rahatsız etmek için kullanmak y
 
 ## 📊 İstatistikler
 
-![GitHub stars](https://img.shields.io/github/stars/luaxfy/shinyucaller?style=social)
-![GitHub forks](https://img.shields.io/github/forks/luaxfy/shinyucaller?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/luaxfy/shinyucaller?style=social)
+![GitHub stars](https://img.shields.io/github/stars/thevulnex/shinyucaller?style=social)
+![GitHub forks](https://img.shields.io/github/forks/thevulnex/shinyucaller?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/thevulnex/shinyucaller?style=social)
 
 
 **Not:** Bu araç sürekli geliştirilmektedir. Güncellemeler için repository'yi takip edin!
