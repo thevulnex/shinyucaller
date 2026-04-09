@@ -58,7 +58,7 @@ Bu proje GNU GPL v3 lisansı altında lisanslanmıştır. Detaylar için `LICENS
 
 **vulnex**
 
-- GitHub: [@luaxfy](https://github.com/thevulnex)
+- GitHub: [@vulnex.](https://github.com/thevulnex)
 - Repository: [shinyucaller](https://github.com/thevulnex/shinyucaller)
 
 ## ⭐ Destek
